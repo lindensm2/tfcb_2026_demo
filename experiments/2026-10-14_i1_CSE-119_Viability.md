@@ -23,3 +23,6 @@ https://github.com/lindensm2/tfcb_2026_demo/issues/1
 ![Example of flow gating](../result.png)
 
 Example of previous flow but related flow gating strategy (current experiment has not been completed), this data was produced by Linden McHenry.
+
+PROBLEM 3
+I has already completed all my edits before reading problem 3 so I am doing my commits with the #1 here
