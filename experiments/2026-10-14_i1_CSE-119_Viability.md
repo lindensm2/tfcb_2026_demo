@@ -20,5 +20,5 @@ https://github.com/lindensm2/tfcb_2026_demo/issues/1
 - Wash cells with 1 mL L15 media then resuspend in 300 uL L15 media and transfer to FACS tube before analyzing via flow cytometry
 
 ## Result
-IMAGE
+![Example of flow gating]
 
