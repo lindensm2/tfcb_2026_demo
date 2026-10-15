@@ -19,6 +19,8 @@ When I invited collaborators, I gave them editing access to repository. This mea
 ### commit message
 Update 2026-10-14_i1_CSE-119_Viability.md #1
 
+58a7b71f00b05dd52f80a608236547e39640b36a
+
 ### repository link
 [repository](https://github.com/lindensm2/tfcb_2026_demo/labels)
 
@@ -35,5 +37,5 @@ This repository was created to complete homework 1 for MCB 536. This was done by
        - README.md
 - experiments
   - log file
-- flow_result.png
+  - flow_result.png
 - tidy_data.csv
