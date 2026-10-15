@@ -1,5 +1,5 @@
 # tfcb_2026_demo
-When I invited collaborators, I gave them editing access to repository. This means they can now add comments to my issues to collaborate on experiments or analyses.
+When I invited collaborators, I gave them editing access to repository. This means they can now add comments to issues allowing for collaboration on experiments or analyses.
 
 ## Homework 1
 ### link to issues
@@ -21,3 +21,19 @@ Update 2026-10-14_i1_CSE-119_Viability.md #1
 
 ### repository link
 [repository](https://github.com/lindensm2/tfcb_2026_demo/labels)
+
+## relevant information
+
+This repository was created to complete homework 1 for MCB 536. This was done by Linden McHenry.
+
+### structure
+- analysis
+  -  README.md
+  - qpcr/2026-10-14_i2_tidy_data_exercise/tables
+    -  tidy_data.csv
+    -  data
+       - README.md
+- experiments
+  - log file
+- flow_result.png
+- tidy_data.csv
