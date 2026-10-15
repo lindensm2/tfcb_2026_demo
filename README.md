@@ -21,8 +21,8 @@ Update 2026-10-14_i1_CSE-119_Viability.md #1
 
 58a7b71f00b05dd52f80a608236547e39640b36a
 
-### repository link
-[repository](https://github.com/lindensm2/tfcb_2026_demo/labels)
+### repository labels
+[labels](https://github.com/lindensm2/tfcb_2026_demo/labels)
 
 ## relevant information
 
